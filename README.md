@@ -6,7 +6,6 @@ This Demon Hangman is a specialized program for people to misspell words.
 
 
 CODER: DahunIm
-CREDIT/Contributions: Diessel and Deitel Code
 
 How to compile: 
 make
