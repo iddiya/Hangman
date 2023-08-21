@@ -1,4 +1,4 @@
-Name of Program : main.cpp.c
+Name of Program : main.cpp
 As you all know, Hangman Game is a very famous word quiz program. When a word is given, it's given a blank space as long as the word length, 
 and the player guesses the word by saying the alphabet one by one. I made it more difficult and difficult. 
 This Demon Hangman is a specialized program for people to misspell words.
